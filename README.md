@@ -24,3 +24,8 @@ nome,numero
 "Marcos","5521777777777"
 "João","5521666666666"
 ```
+
+## Saída
+A saída é um grafo direcionado com arestas cujos pesos são iguais à quantidade de vezes em que as marcações ocorreram. Para ver exemplos de métricas de vértice, acesse o arquivo .ipynb
+
+Obrigado por ler até aqui :)
